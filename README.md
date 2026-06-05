@@ -14,7 +14,7 @@ O objetivo é reduzir a dependência de confiança informal, minimizar riscos de
 
 O mercado de prestação de serviços digitais cresce continuamente, mas ainda enfrenta problemas relacionados à confiança entre contratantes e prestadores de serviço.
 
-Freelancers frequentemente enfrentam:
+## Freelancers frequentemente enfrentam:
 
 * Atrasos nos pagamentos;
 * Inadimplência;
